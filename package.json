@@ -10,7 +10,7 @@
     "start": "node sensorbot.js"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "normal-distribution": "0.0.7"
   },
   "engines": {
